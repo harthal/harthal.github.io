@@ -2,5 +2,3 @@
 echo 123;
 ?>
 <b>haii</b>
-
-<script>alert(1)</script>
