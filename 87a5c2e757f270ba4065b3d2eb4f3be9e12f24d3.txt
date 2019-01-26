@@ -1,1 +1,3 @@
-haii
+<?php
+echo 123;
+?>
